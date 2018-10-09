@@ -9,6 +9,22 @@
 
 ## Laravel Native Search
 
-Is a simple laravel with search functionality, with search query
+Is a simple laravel with search functionality, with search query.
+
+## Clone
+clone repo
+
+# Composer
+Run:
+$ Composer update
+
+# Key
+Run:
+php artisan key:generate
+
+# Database
+Goto PhpMyAdmin:
+upload the file SearchApp.sql
+
 
 
