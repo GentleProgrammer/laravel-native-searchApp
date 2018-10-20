@@ -11,18 +11,22 @@
 
 Is a simple laravel with search functionality, with search query.
 
-## Clone
-clone repo
+# How to use
 
-# Composer
-Run:
-$ Composer update
+Clone the repository with git clone
 
-# Key
-Run:
-php artisan key:generate
+Copy .env.example file to .env and edit database credentials there
+Run composer install
+Run php artisan key:generate
 
+
+-------------------------------------------------------------------
 # Database
+
+Run php artisan migrate
+
+or
+
 Goto PhpMyAdmin:
 upload the file SearchApp.sql
 
