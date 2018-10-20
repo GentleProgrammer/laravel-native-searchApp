@@ -13,10 +13,10 @@ Is a simple laravel with search functionality, with search query.
 
 # How to use
 
-Clone the repository with git clone
+Clone the repository with git clone <br>
 
-Copy .env.example file to .env and edit database credentials there
-Run composer install
+Copy .env.example file to .env and edit database credentials there <br>
+Run composer install <br>
 Run php artisan key:generate
 
 
