@@ -30,6 +30,6 @@ Goto PhpMyAdmin:
 upload the file SearchApp.sql
 
 
-License
+#License
 
 Free to re-use however you want.
