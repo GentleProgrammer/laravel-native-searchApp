@@ -7,11 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Laravel Native Search
+# Laravel Native Search
 
 Is a simple laravel with search functionality, with search query.
 
-# How to use
+## How to use
 
 Clone the repository with git clone <br>
 
@@ -21,7 +21,7 @@ Run php artisan key:generate
 
 
 -------------------------------------------------------------------
-# Database
+## Database
 
 Run php artisan migrate
 
