@@ -22,11 +22,10 @@ Run php artisan key:generate
 -------------------------------------------------------------------
 ## Database
 
-Run php artisan migrate
+Run php artisan migrate:refresh 
 
-or
-
-Php artisan migrate:refresh 
+## Database Seeder
+Run php db:seed
 
 
 ## License
