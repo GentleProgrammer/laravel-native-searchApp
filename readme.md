@@ -26,8 +26,7 @@ Run php artisan migrate
 
 or
 
-Goto PhpMyAdmin:
-upload the file SearchApp.sql
+Php artisan migrate:refresh 
 
 
 ## License
